@@ -27,7 +27,7 @@ class Prajwal:
     current_focus = [
         "Fine-tuning LLMs with QLoRA",
         "Building Full Stack AI Apps",
-        "Smart India Hackathon Projects",
+        "Building multi AI Agents system",
     ]
 
     fun_fact = "I ship ML models, not just Jupyter notebooks 😎"
@@ -40,7 +40,7 @@ class Prajwal:
 - 🏆 **Smart India Hackathon** project builder
 - 🩺 Fine-tuned **TinyLlama** on medical Q&A with QLoRA
 - 🌐 Full-stack with React, Flask, Supabase & Gradio
-- 📬 Reach me at: **omyadao1706@gmail.com**
+- 📬 Reach me at: **kamteprajwal@gmail.com**
 
 ---
 
