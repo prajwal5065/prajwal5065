@@ -130,15 +130,7 @@ class PrajwalKamte:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-170-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Current%20Streak-4%20Days-ff6b6b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Longest%20Streak-7%20Days-00ffcc?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-Full%20Stack-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mode-Building-green?style=for-the-badge"/>
+<img src="https://streak-stats.demolab.com/?user=prajwal5065&theme=tokyonight&hide_border=true&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" width="60%"/>
 
 </div>
 ---
