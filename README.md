@@ -37,19 +37,6 @@ class PrajwalKamte:
     location   = "Pune, Maharashtra 🇮🇳"
     languages  = ["Python 🐍", "C++ ⚙️", "JavaScript ⚡"]
 
-    current_arc = [
-        "🤖 Building Multi-Agent AI Systems",
-        "🧬 Fine-tuning LLMs with QLoRA",
-        "🌐 Shipping Full Stack AI Products",
-    ]
-
-    special_moves = {
-        "Jutsu_1": "QLoRA Fine-Tune no Jutsu 🔮",
-        "Jutsu_2": "Multi-Agent Orchestration 🕸️",
-        "Jutsu_3": "React + Flask Fusion Technique ⚡",
-        "Jutsu_4": "Spam Detection Rasengan 🌀",
-    }
-
     weakness = "Sleep (optional feature, rarely used 😴)"
     motto    = "I ship models, not just notebooks 🚀"
 ```
