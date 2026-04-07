@@ -152,11 +152,15 @@ class PrajwalKamte:
 
 ## 🏆 Trophies Unlocked
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/Commits-Active-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRs-Merging-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Building-00ffcc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FullStack-Shipping-ffa500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSource-Contributor-blue?style=for-the-badge"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
-
-
+</div>
 
 ---
 
