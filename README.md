@@ -19,7 +19,9 @@
 
 ---
 
- <img alt="Anime Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<div align="right" style="margin-top: 60px;">
+  <img alt="Anime Coding" width="380" src="..."/>
+</div>
 
 ## ⚔️ Character Stats
 
