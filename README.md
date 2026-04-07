@@ -20,7 +20,7 @@
 ---
 
 
-<div>
+
 <img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
     
 ## ⚔️ Character Stats
@@ -42,7 +42,7 @@ class PrajwalKamte:
     weakness = "Sleep (optional feature, rarely used 😴)"
     motto    = "I ship models, not just notebooks 🚀"
 ```
-<div/>
+
 <br clear="right"/>
 
 ---
