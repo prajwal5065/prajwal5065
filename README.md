@@ -20,7 +20,7 @@
 ---
 
  <img alt="Anime Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-</div>
+
 ## ⚔️ Character Stats
 
 ```python
