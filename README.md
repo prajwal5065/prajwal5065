@@ -21,9 +21,11 @@
 
 
 
-<img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
     
 ## ⚔️ Character Stats
+<br/>
+
+<img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```python
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
