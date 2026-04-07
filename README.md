@@ -152,11 +152,11 @@ class PrajwalKamte:
 
 ## 🏆 Trophies Unlocked
 
-<div align="center">
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
-</div>
+
 
 ---
 
