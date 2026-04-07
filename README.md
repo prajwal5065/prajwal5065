@@ -16,10 +16,12 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kamte-428409389)
-[![Portfolio](](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-7kgb.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-7kgb.vercel.app/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Prajwal4107k)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamteprajwal@gmail.com)
-
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/Yad4o?style=for-the-badge&color=181717&logo=github)](https://github.com/prajwal5065)
+<br/>
 <br/>
 
 *"The code I write today is the legacy I leave tomorrow."* ⚔️
@@ -32,7 +34,7 @@
 > *"People live their lives bound by what they accept as correct and true."*
 > — **Adapted for devs** 🍃
 
-[![GitHub followers](https://img.shields.io/github/followers/Yad4o?style=for-the-badge&color=181717&logo=github)](https://github.com/prajwal5065)
+
 
 
 
