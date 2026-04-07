@@ -19,12 +19,10 @@
 
 ---
 
-<br/><br/><br/>
 
-<img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## ⚔️ Character Stats
-
+<img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 ```python
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #   PLAYER: Prajwal Kamte
