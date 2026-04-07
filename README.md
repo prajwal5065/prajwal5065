@@ -75,19 +75,12 @@ class PrajwalKamte:
 | ⚔️ Quest Name | 📜 Mission | 🛠️ Arsenal | 🏆 Status |
 |--------------|-----------|-----------|----------|
 | 📋 **SRS** | Software Requirements Specification system | React · TypeScript | [📁 Repo](https://github.com/Yad4o/SRS) |
-
 | 🤖 **MAP** | Multi-agent AI automation platform | LangGraph · LangChain · FastAPI | [📁 Repo](https://github.com/Yad4o/MAP) |
-
 | 💸 **Reimbursement System** | Smart reimbursement management platform | React · TypeScript · Supabase | [📁 Repo](https://github.com/Yad4o/reimbursement-system) |
-
 | 🏥 **MediBot AI** | Fine-tuned TinyLlama 1.1B on medical Q&A using QLoRA — deployed on HuggingFace | Python · PEFT · QLoRA · Gradio | [🌐 Live](https://huggingface.co/spaces/Prajwal4107k/My-Medical-AI-Assistant) |
-
 | 🎓 **Smart Internship Matcher** | AI platform connecting students with internships — Smart India Hackathon | React · TypeScript · Supabase | [🌐 Live](https://smart-internship-matcher.vercel.app/) |
-
 | 🛡️ **Spam Detector** | Real-time email spam classifier — Naive Bayes + SVM with analysis dashboard | Python · Scikit-learn · Flask · React | [📁 Repo](https://github.com/prajwal5065/Spam-Detector) |
-
 | 🎬 **Movie Recommender** | Genre, mood & decade-based personalized movie recommendations | React · Vite · Flask | [📁 Repo](https://github.com/prajwal5065/Movie-recommendation) |
-
 | 🌐 **Portfolio** | Animated dev portfolio — tsParticles, Framer Motion, EmailJS | React 19 · Tailwind · Framer Motion | [🌐 Live](https://portfolio-7kgb.vercel.app/) |
 
 
