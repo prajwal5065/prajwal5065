@@ -130,21 +130,15 @@ class PrajwalKamte:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwal5065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7" height="180"/>
+<img src="https://img.shields.io/badge/Total%20Commits-170-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Current%20Streak-4%20Days-ff6b6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Longest%20Streak-7%20Days-00ffcc?style=for-the-badge"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prajwal5065&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a855f7" height="180"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prajwal5065&theme=tokyonight&hide_border=true&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=prajwal5065&theme=tokyo-night&hide_border=true&area=true&line=a855f7&point=ff6b6b" width="95%"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-Full%20Stack-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mode-Building-green?style=for-the-badge"/>
 
 </div>
 ---
