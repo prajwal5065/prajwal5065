@@ -14,7 +14,8 @@
 
 ---
 
-> *"People live their lives bound by what they accept as correct and true."* ⚔️
+> *"A shinobi who breaks the rules is trash... but one who abandons their code is worse than trash."*
+> — **Adapted for devs** 🍃
 
 ---
 
@@ -55,26 +56,19 @@ class PrajwalKamte:
 
 <br clear="right"/>
 
-- 🎓 **3rd Year** AI & Data Science student
-- 🤖 Passionate about **LLMs, Computer Vision & NLP**
-- 🤖 Building **Multi-Agent AI Systems**
-- 🩺 Fine-tuned **TinyLlama** on medical Q&A with QLoRA
-- 🌐 Full-stack with **React, Flask, Supabase & Gradio**
-- 📬 Reach me at: **kamteprajwal@gmail.com**
-
 ---
 
 ## 🎯 Quest Board — Featured Projects
 
 <div align="center">
 
-| ⚔️ Quest | 📜 Mission | 🛠️ Arsenal | 🔗 |
-|---------|-----------|-----------|-----|
-| 🏥 **MediBot AI** | Fine-tuned TinyLlama 1.1B on medical Q&A using QLoRA | Python · PEFT · QLoRA · Gradio | [🤗 Live](https://huggingface.co/spaces/Prajwal4107k/My-Medical-AI-Assistant) |
-| 🎓 **Smart Internship Matcher** | AI platform connecting students with internships — SIH project | React · TypeScript · Supabase | [🌐 Live](https://smart-internship-matcher.vercel.app/) |
-| 🛡️ **Spam Detector** | Real-time email spam classifier — Naive Bayes + SVM | Python · Scikit-learn · Flask · React | [📁 Repo](https://github.com/prajwal5065/Spam-Detector) |
+| ⚔️ Quest Name | 📜 Mission | 🛠️ Arsenal | 🏆 Status |
+|--------------|-----------|-----------|----------|
+| 🏥 **MediBot AI** | Fine-tuned TinyLlama 1.1B on medical Q&A using QLoRA — deployed on HuggingFace | Python · PEFT · QLoRA · Gradio | [🌐 Live](https://huggingface.co/spaces/Prajwal4107k/My-Medical-AI-Assistant) |
+| 🎓 **Smart Internship Matcher** | AI platform connecting students with internships — Smart India Hackathon | React · TypeScript · Supabase | [🌐 Live](https://smart-internship-matcher.vercel.app/) |
+| 🛡️ **Spam Detector** | Real-time email spam classifier — Naive Bayes + SVM with analysis dashboard | Python · Scikit-learn · Flask · React | [📁 Repo](https://github.com/prajwal5065/Spam-Detector) |
 | 🎬 **Movie Recommender** | Genre, mood & decade-based personalized movie recommendations | React · Vite · Flask | [📁 Repo](https://github.com/prajwal5065/Movie-recommendation) |
-| 🌐 **Portfolio** | Animated dev portfolio with tsParticles & Framer Motion | React 19 · Tailwind · Framer Motion | [🌐 Live](https://portfolio-7kgb.vercel.app/) |
+| 🌐 **Portfolio** | Animated dev portfolio — tsParticles, Framer Motion, EmailJS | React 19 · Tailwind · Framer Motion | [🌐 Live](https://portfolio-7kgb.vercel.app/) |
 | 🤖 **MAP** | Multi-agent AI automation platform | LangGraph · LangChain · FastAPI | [📁 Repo](https://github.com/Yad4o/MAP) |
 | 💸 **Reimbursement System** | Smart reimbursement management platform | React · TypeScript · Supabase | [📁 Repo](https://github.com/Yad4o/reimbursement-system) |
 | 📋 **SRS** | Software Requirements Specification system | React · TypeScript | [📁 Repo](https://github.com/Yad4o/SRS) |
@@ -137,14 +131,14 @@ class PrajwalKamte:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwal5065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&hide=contribs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prajwal5065&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal5065&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a855f7" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=prajwal5065&theme=tokyonight&hide_border=true&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&hide_current_streak=true" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=prajwal5065&theme=tokyonight&hide_border=true&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" width="60%"/>
 
 </div>
 
@@ -160,7 +154,7 @@ class PrajwalKamte:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
 
 </div>
 
@@ -173,7 +167,7 @@ class PrajwalKamte:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal5065/prajwal5065/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal5065/prajwal5065/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/prajwal5065/prajwal5065/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prajwal5065/prajwal5065/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
@@ -191,7 +185,7 @@ class PrajwalKamte:
 
 <br/>
 
-*"People live their lives bound by what they accept as correct and true."* ⚔️
+*"The code I write today is the legacy I leave tomorrow."* ⚔️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prajwal5065&color=a855f7&style=for-the-badge&label=ADVENTURERS+VISITED)
 
