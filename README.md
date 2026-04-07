@@ -14,12 +14,12 @@
 
 ---
 
-> *"A shinobi who breaks the rules is trash... but one who abandons their code is worse than trash."*
+> *"People live their lives bound by what they accept as correct and true."*
 > — **Adapted for devs** 🍃
 
 ---
 
-<img align="right" alt="Anime Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Anime Coding" width="460" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## ⚔️ Character Stats
 
@@ -154,7 +154,7 @@ class PrajwalKamte:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal5065&theme=onestar&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
 
 </div>
 
