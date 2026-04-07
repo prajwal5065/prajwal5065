@@ -173,9 +173,27 @@ class PrajwalKamte:
 
 </div>
 
+## Stats
+ 
+<div align="center">
+ 
+![Commits](https://img.shields.io/badge/Commits_%28last_year%29-300+-818cf8?style=for-the-badge)
+![PRs](https://img.shields.io/badge/Pull_Requests-44+-a78bfa?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars_Earned-20+-4ade80?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_Repos-9+-38bdf8?style=for-the-badge)
+ 
+![Python](https://img.shields.io/badge/Python-Most_Used-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2nd-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3rd-264de4?style=flat-square&logo=css3&logoColor=white)
+ 
+</div>
 ---
 
+## Highlights
 
+- 🦈 **Pull Shark ×2** — PRs merged by others across team projects
+- 👥 **Pair Extraordinaire** — co-authored commits across the MAP team
+- ⚡ **YOLO** — merged without review (we've all been there)
 
 ---
 
