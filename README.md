@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Prajwal%20Kamte&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20%E2%80%A2%20Multi-Agent%20Architectures%20%E2%80%A2%20LLM%20Engineering&descAlignY=58&descSize=18"/>
@@ -269,4 +269,4 @@ Building scalable AI products, intelligent automation systems, and next-generati
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 
 </div>
-```
+
