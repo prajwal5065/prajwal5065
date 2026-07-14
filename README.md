@@ -1,11 +1,12 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Prajwal%20Kamte&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20%E2%80%A2%20Multi-Agent%20Architectures%20%E2%80%A2%20LLM%20Engineering&descAlignY=58&descSize=18"/>
 
+<img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/fallout_grayscale%20(1).gif" width="100%"/>
+
 # Building Intelligent AI Systems
 
-### AI Engineer • Multi-Agent Systems • Full Stack Developer
+### AI Engineer • Multi-Agent Systems • Full Stack Developer • 4th Year Student
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Production-Grade+Multi-Agent+Systems;Retrieval-Augmented+Generation+(RAG);LLM+Fine-Tuning+with+QLoRA;FastAPI+%7C+React+%7C+LangGraph+%7C+PyTorch)](https://git.io/typing-svg)
 
@@ -20,7 +21,7 @@
 
 # About Me
 
-I'm a **3rd Year AI & Data Science student** passionate about building production-ready AI applications that combine modern LLMs, multi-agent orchestration, retrieval systems, and scalable backend engineering.
+I'm a **4th Year AI & Data Science student** passionate about building production-ready AI applications that combine modern LLMs, multi-agent orchestration, retrieval systems, and scalable backend engineering.
 
 My primary interests include:
 
@@ -68,6 +69,21 @@ Planner → Executor → Memory → Evaluator pipeline with provider failover, s
 
 ---
 
+## SRS — Automated Customer Support Resolution
+
+Confidence-based decision engine that auto-resolves or escalates support tickets, using TF-IDF similarity search over resolved ticket history.
+
+**Stack**
+
+`FastAPI`
+`SQLAlchemy`
+`TF-IDF`
+`PostgreSQL`
+
+🔗 https://github.com/Yad4o/SRS
+
+---
+
 ## Commercial Area Intelligence Engine
 
 A multi-agent B2B intelligence platform that collects, enriches, validates, and scores commercial businesses using coordinated AI agents.
@@ -93,6 +109,8 @@ Repository intelligence platform that indexes source code into vector embeddings
 `FAISS`
 `RAG`
 
+🔗 https://github.com/prajwal5065/RepoMind-AI
+
 ---
 
 ## Persona Twin
@@ -104,6 +122,8 @@ A personal knowledge engine that recreates an individual's knowledge and communi
 `Python`
 `RAG`
 `Vector Search`
+
+https://github.com/prajwal5065/Persona-Twin
 
 ---
 
@@ -142,6 +162,8 @@ Workflow automation platform for reimbursement management with approval pipeline
 `Supabase`
 `TypeScript`
 
+🔗 https://github.com/Yad4o/reimbursement-system
+
 ---
 
 ### Spam Detector
@@ -152,6 +174,8 @@ Machine Learning based spam classification dashboard using Naive Bayes and SVM.
 `Scikit-learn`
 `React`
 
+🔗 https://github.com/prajwal5065/Spam-Detector
+
 ---
 
 ### Movie Recommendation System
@@ -161,55 +185,33 @@ Movie recommendation engine using user preferences including genre, mood, and re
 `React`
 `Flask`
 
+🔗 https://github.com/prajwal5065/Movie-recommendation
+
 ---
 
 # Tech Stack
 
-### AI & Machine Learning
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,docker,nginx,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,firebase,supabase" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pytorch,tensorflow,cpp,c" />
+</div>
 
-`Python`
-`PyTorch`
-`TensorFlow`
-`OpenCV`
-`LangChain`
-`LangGraph`
-`BentoML`
-`FAISS`
+<br/>
 
----
+**AI & Backend Frameworks**
 
-### Backend
-
-`FastAPI`
-`Flask`
-`PostgreSQL`
-`Redis`
-`SQLAlchemy`
-`Celery`
-`Pydantic`
-
----
-
-### Frontend
-
-`React`
-`TypeScript`
-`JavaScript`
-`Tailwind CSS`
-`Three.js`
-`GSAP`
-`Vite`
-
----
-
-### Infrastructure
-
-`Docker`
-`Nginx`
-`Prometheus`
-`Grafana`
-`Vercel`
-`Render`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![BentoML](https://img.shields.io/badge/BentoML-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
@@ -269,4 +271,3 @@ Building scalable AI products, intelligent automation systems, and next-generati
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
 
 </div>
-
